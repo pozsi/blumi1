@@ -1,0 +1,9 @@
+{
+  "name": "blumi1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "swagger_petstore": "github:pozsi/javascript-client"
+  },
+  "scripts": {}
+}
